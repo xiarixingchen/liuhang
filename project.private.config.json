@@ -1,0 +1,41 @@
+{
+  "setting": {},
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "pages/bar/index",
+          "pathName": "pages/bar/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/multiCharts/index",
+          "pathName": "pages/multiCharts/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/line/index",
+          "pathName": "pages/line/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/index/index",
+          "pathName": "pages/index/index",
+          "scene": null
+        }
+      ]
+    }
+  }
+}
